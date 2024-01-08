@@ -1,2 +1,2 @@
-<img src="/img/mymelody.gif" width="1100" height="820">
+<img src="/img/my-melody.gif" width="1100" height="820">
 
